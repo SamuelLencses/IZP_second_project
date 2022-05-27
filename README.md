@@ -29,3 +29,9 @@ possible commands:
   subset A B 
   equals A B 
   
+Examples of use in file:
+U Apple Lemon Orange Banana Peach
+
+S Apple Banana Peach
+
+R (Apple Banana) (Apple Peach) (Apple Apple)
